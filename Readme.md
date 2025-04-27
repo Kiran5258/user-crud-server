@@ -20,7 +20,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/your-username/express-users-api.git
+git clone https://github.com/Kiran5258/express-users-api.git
 cd express-users-api
 npm install
 Running the Server

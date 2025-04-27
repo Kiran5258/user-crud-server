@@ -36,14 +36,15 @@ Edit
 http://localhost:3000
 (or the port you set in .env)
 
-Method | Endpoint | Description
-GET | /api/users | Get all users or search users
-GET | /api/users/:id | Get a single user by ID
-POST | /api/users | Add a new user
-PUT | /api/users/:id | Update entire user
-PATCH | /api/users/:id | Update partial user
-DELETE | /api/users/:id | Delete a user
-GET | /api/product | Get sample product
+Method                 | Endpoint                    | Description
+
+GET                    | /api/users                  | Get all users or search users
+GET                    | /api/users/:id              | Get a single user by ID
+POST                   | /api/users                  | Add a new user
+PUT                    | /api/users/:id              | Update entire user
+PATCH                  | /api/users/:id              | Update partial user
+DELETE                 | /api/users/:id              | Delete a user
+GET                    | /api/product                | Get sample product
 
 
 Example Request

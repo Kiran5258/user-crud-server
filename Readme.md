@@ -1,7 +1,9 @@
 express-users-api
+
 A simple Express.js server for managing users with basic CRUD operations (Create, Read, Update, Delete).
 
 Features
+
 Get all users
 
 Search users by name or displayname
@@ -17,6 +19,7 @@ Delete a user
 Sample /api/product route
 
 Installation
+
 bash
 Copy
 Edit
@@ -54,22 +57,28 @@ GET                    | /api/product                | Get sample product
 
 
 Example Request
+
 POST /api/users
 
 json
 Copy
 Edit
+
 {
   "name": "Alice",
   "displayname": "ali"
 }
+
 Tech Stack
+
 Node.js
 
 Express.js
 
 Author
+
 Made with ❤️ by Kiran Kumar
 
 License
+
 This project is licensed under the MIT License.
